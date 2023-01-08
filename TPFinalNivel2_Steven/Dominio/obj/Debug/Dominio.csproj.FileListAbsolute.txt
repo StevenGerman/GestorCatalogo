@@ -1,0 +1,12 @@
+C:\Users\german\Desktop\C#\TPFinalNivel2_Steven\Dominio\bin\Debug\Dominio.dll
+C:\Users\german\Desktop\C#\TPFinalNivel2_Steven\Dominio\bin\Debug\Dominio.pdb
+C:\Users\german\Desktop\C#\TPFinalNivel2_Steven\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\german\Desktop\C#\TPFinalNivel2_Steven\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\german\Desktop\C#\TPFinalNivel2_Steven\Dominio\obj\Debug\Dominio.dll
+C:\Users\german\Desktop\C#\TPFinalNivel2_Steven\Dominio\obj\Debug\Dominio.pdb
+C:\Users\german\Desktop\TPFinalNivel2_Steven\TPFinalNivel2_Steven\Dominio\bin\Debug\Dominio.dll
+C:\Users\german\Desktop\TPFinalNivel2_Steven\TPFinalNivel2_Steven\Dominio\bin\Debug\Dominio.pdb
+C:\Users\german\Desktop\TPFinalNivel2_Steven\TPFinalNivel2_Steven\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\german\Desktop\TPFinalNivel2_Steven\TPFinalNivel2_Steven\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\german\Desktop\TPFinalNivel2_Steven\TPFinalNivel2_Steven\Dominio\obj\Debug\Dominio.dll
+C:\Users\german\Desktop\TPFinalNivel2_Steven\TPFinalNivel2_Steven\Dominio\obj\Debug\Dominio.pdb
